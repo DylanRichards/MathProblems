@@ -7,12 +7,12 @@ import java.util.Scanner;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CollatzConjectureTest {
+public class CollatzConjectureTest {
 
     private CollatzConjecture collatzConjecture;
 
     @Test
-    void compute() {
+    void testCompute() {
         collatzConjecture = new CollatzConjecture(new Scanner("7"));
         collatzConjecture.compute();
         assertEquals(16, collatzConjecture.getIterations());
