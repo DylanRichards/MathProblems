@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"main","l":"CollatzConjecture"},{"p":"main","l":"Main"},{"p":"main","l":"MathRunnable"}]
+typeSearchIndex = [{"p":"main","l":"CollatzConjecture"},{"p":"test","l":"CollatzConjectureTest"},{"p":"main","l":"Factorial"},{"p":"test","l":"FactorialTest"},{"p":"main","l":"Main"},{"p":"main","l":"MathRunnable"}]
