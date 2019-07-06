@@ -4,6 +4,9 @@ import java.math.BigInteger;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * @see <a href="https://en.wikipedia.org/wiki/Collatz_conjecture">Wikipedia Link</a>
+ */
 public class CollatzConjecture implements MathRunnable{
 
     private BigInteger input;
